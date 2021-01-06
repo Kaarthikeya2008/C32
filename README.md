@@ -1,2 +1,1 @@
-# C32
-AngryBirdStage7
+# AngryBirdsStage7
